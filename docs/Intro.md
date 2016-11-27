@@ -49,11 +49,11 @@ Related Packages
 ----------------
 **meta4ux** is the client-side engine that renders the app's User Experience.
 
-**meta4node** is the NodeJS engine that powers a light-weight web-based API server.
+**meta4apis** is the NodeJS engine that powers a light-weight web-based API server.
 
-**meta4beta** combines the client & server with examples & demonstrations.
+**meta4mvp** combines the client & server with examples & demonstrations.
 
-To get started, download <a href="https://github.com/troven/meta4beta.md">meta4beta</a> and follow the simple instructions.
+To get started, download <a href="https://github.com/troven/meta4mvp.md">meta4mvp</a> and follow the simple instructions.
 
 Dependencies & Libraries
 ------------------------

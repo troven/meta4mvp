@@ -1,6 +1,6 @@
 In meta4, a UX is actually a JSON definition of an application - encapsulating the views, models, templates and scripts.
 
-The UX JSON definitions is typically served to the browser client from the meta4node back-end. 
+The UX JSON definitions is typically served to the browser client from the meta4apis back-end. 
 
 On your disk, an application is just a bunch of .json, .js and .html files that get packaged up together.
 

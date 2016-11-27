@@ -24,7 +24,7 @@ Integrating with APIs is increasingly where an sophisticated, modern app derives
 
 **Can I build my own Widgets?**
 
-Please do. It's fairly straightforward, take at look at meta4ux/src/static/js/meta4beta/Views/Template.js for inspiration. 
+Please do. It's fairly straightforward, take at look at meta4ux/src/static/js/ux/Views/Template.js for inspiration. 
 
 **Why Backbone & Marionette?**
 
