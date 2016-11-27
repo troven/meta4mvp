@@ -2,7 +2,7 @@ meta4 employs a declarative approach to constructing interactive software. You d
 
 With meta4 you can build rich client Javascript apps armed with nothing more than a text editor and some guy called JSON.
 
-You can find out more by reading <a href="UX---User-Experience">User Experience</a>. 
+You can find out more by reading <a href="UX---User-Experience.md">User Experience</a>. 
 
 Why does meta4 exist?
 ---------------------
@@ -21,7 +21,7 @@ Once you've achieved your market fit / minimal valuable product (MVP) - your tec
 
 When you do, we want your investment in business logic to be easily ported.
 
-But, right now ... it's all about <a href="time to value">time to value</a>. 
+But, right now ... it's all about <a href="time to value.md">time to value</a>. 
 
 
 Executable Wireframes
@@ -53,7 +53,7 @@ Related Packages
 
 **meta4beta** combines the client & server with examples & demonstrations.
 
-To get started, download <a href="https://github.com/troven/meta4beta">meta4beta</a> and follow the simple instructions.
+To get started, download <a href="https://github.com/troven/meta4beta.md">meta4beta</a> and follow the simple instructions.
 
 Dependencies & Libraries
 ------------------------

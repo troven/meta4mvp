@@ -13,7 +13,7 @@ The "Form" widget is another major component that encapsulates a lot of behaviou
         }
     }
 
-The Form widget requires a "schema" definition to function. It follows a similar structure used to define a <a href="Models">Model's</a> schema.
+The Form widget requires a "schema" definition to function. It follows a similar structure used to define a <a href="Models.md">Model's</a> schema.
 
 The field's "id" is optional, if ommited it will use it's key.
 The "editor" field references a set of form field widgets.

@@ -1,6 +1,6 @@
 Meta4 introduce new terms and re-uses common terms, in a nuanced way. Let's get some clarity on what we mean:
 
-* **Widget** - a User Interface component - packaged or custom. e.g. <a href="Form">Form</a> or <a href="CRUD">CRUD</a>. It corresponds to a Backbone view.
+* **Widget** - a User Interface component - packaged or custom. e.g. <a href="Form.md">Form</a> or <a href="CRUD.md">CRUD</a>. It corresponds to a Backbone view.
 * **View** - an instance of a widget with corresponding meta-data. Also, a unique instance of a Backbone view.
 * **Model** - meta-data that describes some data, it's schema plus connection information to databases & APIs if necessary.
 * **Event** - a notification from a component that may be acted upon

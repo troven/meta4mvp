@@ -11,7 +11,7 @@ Persistence
 
 Often, collections are persisted to a storage system but can also be declared with hard-coded data.
 
-Collections are flexible in their choice of storage technologies. By default, meta4 includes a MongoDB-like database called <a href="http://lokijs.org/">LokiJS</a>. Internally, they are called "Adapters".
+Collections are flexible in their choice of storage technologies. By default, meta4 includes a MongoDB-like database called <a href="http://lokijs.org/.md">LokiJS</a>. Internally, they are called "Adapters".
 
 The internal LokiJS database is suitable for thousands of models. It's great for small teams or during development. Switching between data stores is relatively painless.
 
@@ -44,7 +44,7 @@ As your application grows, you might need to re-use the same data elsewhere. The
 Client Events
 -------------
 
-On the UX client, they are implemented as <a href="http://backbonejs.org/">Backbone Collections</a>, inheriting their basic behaviours and triggering from standard Backbone events.
+On the UX client, they are implemented as <a href="http://backbonejs.org/.md">Backbone Collections</a>, inheriting their basic behaviours and triggering from standard Backbone events.
 
 You can use the [[Events]] "when" syntax to hook-up your own logic when data changes, or is reloaded from the server. 
 

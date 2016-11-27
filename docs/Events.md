@@ -19,7 +19,7 @@ Events are mapped to named scripts using the "when" JSON object.
 
 Furthermore, some Widgets respond directly to 'navigate' and 'action' events.
 
-The <a href="Home">Home</a>, <a href="Regions">Regions</a> and <a href="CRUD">CRUD</a> components can process 'navigate' events. Other Widgets such as <a href="Menus">Menus</a> fire  'navigate' events.
+The <a href="Home.md">Home</a>, <a href="Regions.md">Regions</a> and <a href="CRUD.md">CRUD</a> components can process 'navigate' events. Other Widgets such as <a href="Menus.md">Menus</a> fire  'navigate' events.
 
 User intentions are carried by 'action' events, perhaps from clicking / selecting some (part of a) view.
 

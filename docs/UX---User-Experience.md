@@ -13,24 +13,24 @@ It is definitely possible to build a useful CRUD-based business application with
 
 Throw in a few custom scripts, call out to a few micro-services - and you have a richly functional application with very little code.
 
-<a href="Views">Views & Templates</a>
+<a href="Views.md">Views & Templates</a>
 ------------------
 
 At it's simplest, a view displays some HTML. Usually, by rendering an HTML template. A view is defined by a simple JSON object. 
 
 meta4 widgets act upon these view definitions to create a responsive, interactive user interface. 
 
-When the meta4 begins, the <a href="Home-View">Home View</a> is rendered first. It's the responsibility of the Home View to take care of the user.
+When the meta4 begins, the <a href="Home-View.md">Home View</a> is rendered first. It's the responsibility of the Home View to take care of the user.
 
 
-<a href="Models">Models & Collections</a>
+<a href="Models.md">Models & Collections</a>
 --------------------
 
 Models are usually gathered into Collections. They represent the entities, or data records of your problem domain. Models may be used without any formal schema.
 
 A Model definition describes the data schema, fields, validation rules and any properties needed to configure the underlying storage engine.
 
-<a href="Events">Events & Scripts</a>
+<a href="Events.md">Events & Scripts</a>
 ----------------
 
 Both Views and Models emit and consume events. These events drive the interaction between the components.

@@ -26,7 +26,7 @@ The sub-views are rendered when the related action is triggered. You'll note tha
 Embedded Views
 --------------
 
-We've re-used the "views:my_view_2/edit" for both the Create and Update parts of the CRUD user interface. They're both imagined to render a <a href="Form">Form</a> definition that is capable of editing the underlying model.
+We've re-used the "views:my_view_2/edit" for both the Create and Update parts of the CRUD user interface. They're both imagined to render a <a href="Form.md">Form</a> definition that is capable of editing the underlying model.
 
 The "read" sub-view is rendered first. The "collection" from the CRUD is passed into the 'read' view definition.
 The "create" and "update" views are triggered by 'action' events. 

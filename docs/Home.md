@@ -8,9 +8,9 @@ You describe what you want to achieve, and let meta4 worry about the 'how'.
 
 You can find out more by reading:
 
-<a href="Intro">Introduction</a>.
+<a href="Intro.md">Introduction</a>.
 
-<a href="UX---User-Experience">User Experience</a>.
+<a href="UX---User-Experience.md">User Experience</a>.
 
-<a href="Views">Views</a>.
+<a href="Views.md">Views</a>.
 

@@ -27,19 +27,19 @@ The Home widget is a navigation view, so it expects to have a nested "views" def
 		}
 	}
 
-<a href="Regions">Regions</a>
+<a href="Regions.md">Regions</a>
 -------
 
-The Home widget will automatically render the header, body & footer. See <a href="Regions">Regions</a> for more information.
+The Home widget will automatically render the header, body & footer. See <a href="Regions.md">Regions</a> for more information.
 
-<a href="Events">Events</a>
+<a href="Events.md">Events</a>
 ------
 
 The Home widget also listens for 'navigate' events emitted by the nested views. 
 
 If that event targets a known view, it will be de-referenced and rendered in the 'body' region.
 
-<a href="Navigation">Navigation</a>
+<a href="Navigation.md">Navigation</a>
 ----------
 
 In this way, you could include a 'MenuButton' or 'MenuList' widget in the header, and it will refresh the body with the appropriate view.

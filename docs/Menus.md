@@ -25,11 +25,11 @@ All Menu widgets fire "select", "action" and "navigate" events whenever an optio
 
 They **do not** invoke the actual navigation process directly.
 
-Instead, navigation-aware widgets like <a href="Home">Home</a> and <a href="Regions">Regions</a> listen to their sub-views for those events and invoke the corresponding view.
+Instead, navigation-aware widgets like <a href="Home.md">Home</a> and <a href="Regions.md">Regions</a> listen to their sub-views for those events and invoke the corresponding view.
 
 Given that events bubble up through the view hierarchy, that means our two collaborating widgets - the trigger source (menu) and the listener (navigator), must share a common ancestor.
 
-Since in practice, this should happen auto-magically. All of our application views are children of the 'views:home' view, and that is rendered by the <a href="Home">Home</a> widget, which handles navigation events and displays the related view.
+Since in practice, this should happen auto-magically. All of our application views are children of the 'views:home' view, and that is rendered by the <a href="Home.md">Home</a> widget, which handles navigation events and displays the related view.
 
 To distinguish one 'action' or 'navigate' from another, a second parameter is passed that gives the action a unique name.
 
