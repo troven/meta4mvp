@@ -29,4 +29,4 @@ Your MVP should start-up and announce that it's listening on port 8090.
 
     http://localhost:8090/
 
-6) Read the documentation <a href="docs/Home.md">Getting Started</a>.
+6) <a href="docs/Home.md">Read the documentation</a>.
