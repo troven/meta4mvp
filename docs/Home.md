@@ -1,16 +1,19 @@
-The goal of meta4 is to enable non-technical entrepreneurs to build a rich, functional web applications in just a few days, so they can start validating their ideas and selling to customers sooner.
+Getting Started with meta4 MVP
+------------------------------
 
-That means you can create responsive, feature-rich prototypes, MVPs or DevOps apps that target both mobiles and desktops - little or no coding required.
 
-meta4 helps you to experiment, test hypotheses and iterate towards product/market fit before investing  into hard-coded software. 
-
-You describe what you want to achieve, and let meta4 worry about the 'how'.
-
-You can find out more by reading:
+The goal of meta4 is to enable non-technical entrepreneurs to build a rich, functional web applications.
+ 
+With meta4, you describe what you want to achieve, and let meta4 worry about 'how'.
 
 <a href="Intro.md">Introduction</a>.
 
 <a href="UX---User-Experience.md">User Experience</a>.
-
-<a href="Views.md">Views</a>.
+<a href="Models-&-Collections.md">Data Models</a>.
+<a href="Views.md">Views and Widgets</a>.
+<a href="CRUD.md">Create, Read, Update and Delete</a>.
+<a href="Form.md">Forms and Fields</a>.
+<a href="Navigation.md">Navigation</a>.
+<a href="FAQ.md">F.A.Q.</a>.
+<a href="Glossary.md">Glossary</a>.
 
