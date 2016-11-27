@@ -1,0 +1,17 @@
+{
+	"paths": {
+		"files": ".",
+		"docs": "./docs",
+		"blueprints": "./blueprints",
+		"target": "./built"
+	},
+	"vars": {
+	},
+	"targets": {
+		"meta4mvp": {
+			"protocol": "https",
+			"hostname": "localhost",
+			"port": "8090"
+		}
+	}
+}

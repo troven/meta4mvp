@@ -1,0 +1,21 @@
+{
+	"id": "{{meta4.name}}:{{name}}",
+	"isClient": true,
+	"isServer": true,
+	"adapter": "default",
+	"type": "Default",
+	"store": "loki",
+	"prefetch": true,
+	"debug": true,
+
+	"defaults": {
+		"label": "New {{name}}"
+	},
+
+	"schema": {
+		"label": {
+			"validators": ["required"]
+		}
+	},
+	"filter": false
+}

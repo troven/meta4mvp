@@ -1,0 +1,66 @@
+{
+	"name": "{{name}}",
+	"version": "0.0.1",
+	"home": "src",
+	"basePath": "/",
+	"host": "localhost",
+	"port": 8090,
+	"salt": "{{meta4.name}}-{{name}}-{{now}}",
+	"features": {
+		"ux": {
+			"path": "/ux"
+		},
+		"crud": {
+			"path": "/models",
+			"adapters": {
+				"orientdb": {
+
+				},
+				"loki": {
+
+				}
+			}
+		},
+		"auth": {
+			"path": "/oauth"
+		},
+		"brand": {
+			"path": "/brand",
+			"home": "src/public/brand"
+		},
+		"pages": {
+			"path": "/pages",
+			"home": "./src/templates/pages"
+		},
+		"assets": {
+			"disabled": false,
+			"path": "/",
+			"home": "src/public"
+		},
+		"upload": {
+			"home": "tmp/uploads",
+			"baseURL": "/ux/upload/",
+			"limits": {
+				"fieldNameSize": 100,
+				"files": 2,
+				"fields": 5
+			}
+		}
+	},
+	"skeleton": {
+		"models": {
+			"user": {
+				"adapter": "loki",
+				"widget": "Form"
+			},
+			"todo": {
+				"adapter": "loki",
+				"widget": "CRUD"
+			},
+			"help": {
+				"adapter": "loki",
+				"widget": "CRUD"
+			}
+		}
+	}
+}

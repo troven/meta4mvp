@@ -1,4 +1,4 @@
-meta4beta
+meta4mvp
 ---------
 
 A self contained runtime for prototyping applications using meta4 JSON wireframes.
@@ -9,8 +9,8 @@ For a basic tutorial on building your UI, check out: https://github.com/troven/m
 1) Install from github
 
 <pre>
-$ git clone https://github.com/troven/meta4beta.git
-$ cd meta4beta
+$ git clone https://github.com/troven/meta4mvp.git
+$ cd meta4mvp
 $ npm install -g
 </pre>
 
@@ -25,7 +25,7 @@ Your server should start-up and announce that it's listening on port 8080.
 4) Browse the demo at:
 
 <pre>
-http://localhost:8080/meta4beta/
+http://localhost:8080/meta4mvp/
 </pre>
 
 5) Change the appropriate entries in package.json and meta4.json to match your project.

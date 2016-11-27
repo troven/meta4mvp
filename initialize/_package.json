@@ -1,0 +1,13 @@
+{
+	"name": "{{name}}",
+	"description": "{{name}} is an meta4 MVP application",
+	"version": "0.0.1",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "meta4qa",
+		"mvp": "meta4mvp build"
+	},
+	"author": "anonymous@example.com",
+	"license": "ISC"
+
+}
