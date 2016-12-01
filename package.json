@@ -1,44 +1,44 @@
 {
-	"name": "meta4mvp",
-	"version": "0.8.0",
-	"description": "Rapid MVP prototyping for SPAs and APIs",
-	"main": "lib/meta4.js",
-	"scripts": {
-		"start": "node lib/meta4.js"
-	},
-	"keywords": [
-		"meta4",
-		"meta4mvp"
-	],
-	"author": "Troven <cto@troven.com.au> (https://troven.com.au/pkg/meta4/)",
-	"licenses": [
-		{
-			"type": "Apache 2.0",
-			"url": "http://www.apache.org/licenses/LICENSE-2.0.html"
-		}
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/troven/meta4mvp.git"
-	},
-	"dependencies": {
-		"meta4common": "^0.5.0",
-		"meta4apis": "~0.8.0",
-		"meta4ux": "~0.8.0",
-		"meta4qa": "^1.5.0",
-		"meta4qa-blueprint": "^1.9.0",
-		"meta4qa-common": "^1.9.0",
-		"meta4qa-webapi": "^1.9.0"
-	},
-	"devDependencies": {
-		"grunt": "^1.0.1",
-		"grunt-contrib-jshint": "^1.0.0",
-		"grunt-contrib-yuidoc": "^1.0.0"
-	},
-	"preferGlobal": true,
-	"bin": {
-		"meta4": "lib/meta4.js",
-		"meta4qa": "lib/meta4qa.js",
-		"meta4mvp": "lib/meta4mvp.js"
-	}
+  "name": "meta4mvp",
+  "version": "0.8.1",
+  "description": "Rapid MVP prototyping for SPAs and APIs",
+  "main": "lib/meta4.js",
+  "scripts": {
+    "start": "node lib/meta4.js"
+  },
+  "keywords": [
+    "meta4",
+    "meta4mvp"
+  ],
+  "author": "Troven <cto@troven.com.au> (https://troven.com.au/pkg/meta4/)",
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/troven/meta4mvp.git"
+  },
+  "dependencies": {
+    "meta4common": "^0.5.0",
+    "meta4apis": "~0.8.0",
+    "meta4ux": "~0.8.0",
+    "meta4qa": "^1.5.0",
+    "meta4qa-blueprint": "^1.9.0",
+    "meta4qa-common": "^1.9.0",
+    "meta4qa-webapi": "^1.9.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-yuidoc": "^1.0.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "meta4": "lib/meta4.js",
+    "meta4qa": "lib/meta4qa.js",
+    "meta4mvp": "lib/meta4mvp.js"
+  }
 }
