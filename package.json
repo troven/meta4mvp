@@ -4,7 +4,8 @@
   "description": "Rapid MVP prototyping for SPAs and APIs",
   "main": "lib/meta4.js",
   "scripts": {
-    "start": "node lib/meta4.js"
+    "start": "node lib/meta4.js",
+	  "test": "node lib/meta4qa.js"
   },
   "keywords": [
     "meta4",

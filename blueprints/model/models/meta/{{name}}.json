@@ -2,9 +2,8 @@
 	"id": "{{meta4.name}}:{{name}}",
 	"isClient": true,
 	"isServer": true,
-	"adapter": "default",
 	"type": "Default",
-	"store": "loki",
+	"adapter": "loki",
 	"prefetch": true,
 	"debug": true,
 
