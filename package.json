@@ -1,6 +1,6 @@
 {
   "name": "meta4mvp",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Rapid MVP prototyping for SPAs and APIs",
   "main": "lib/meta4.js",
   "scripts": {
