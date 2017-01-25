@@ -25,7 +25,7 @@
   "dependencies": {
     "meta4common": "^0.5.0",
     "meta4apis": "~0.8.0",
-    "meta4ux": "~0.8.0",
+    "meta4ux": "~0.8.10",
     "meta4qa": "^1.5.0",
     "meta4qa-blueprint": "^1.9.0",
     "meta4qa-common": "^1.9.0",
