@@ -13,9 +13,13 @@ Let's build a simple demo in a few seconds ...
 2) To initialize a new MVP project, type:
 
     $ mkdir my_mvp
+
     $ cd my_mvp
+
     $ git init
+
     $ npm init
+
     $ meta4mvp --initialize
 
 3) To build your skeleton MVP, type:
